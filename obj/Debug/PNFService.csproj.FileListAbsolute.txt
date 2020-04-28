@@ -1,0 +1,13 @@
+C:\Users\mini\source\repos\PNFService\PNFService\bin\Debug\PNFService.exe
+C:\Users\mini\source\repos\PNFService\PNFService\bin\Debug\PNFService.pdb
+C:\Users\mini\source\repos\PNFService\PNFService\obj\Debug\PNFService.csprojAssemblyReference.cache
+C:\Users\mini\source\repos\PNFService\PNFService\obj\Debug\PNFService.csproj.CoreCompileInputs.cache
+C:\Users\mini\source\repos\PNFService\PNFService\obj\Debug\PNFService.exe
+C:\Users\mini\source\repos\PNFService\PNFService\obj\Debug\PNFService.pdb
+C:\Users\mini\source\repos\PNFService\PNFService\obj\Debug\PNFService.ProjectInstaller.resources
+C:\Users\mini\source\repos\PNFService\PNFService\obj\Debug\PNFService.Service1.resources
+C:\Users\mini\source\repos\PNFService\PNFService\obj\Debug\PNFService.csproj.GenerateResource.cache
+C:\Users\mini\source\repos\PNFService\PNFService\bin\Debug\PNFService.exe.config
+C:\Users\mini\source\repos\PNFService\PNFService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mini\source\repos\PNFService\PNFService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mini\source\repos\PNFService\PNFService\obj\Debug\PNFService.csproj.CopyComplete

@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00 
+;Setup of PNFService
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\STARService] 
+;"URL"="http://db.star-bag.ru:8071/collectors"
+"URL"="http://localhost:8080/collectors"
+"ID_Machine"="0000"

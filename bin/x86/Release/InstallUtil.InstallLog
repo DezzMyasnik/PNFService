@@ -1,0 +1,38 @@
+﻿
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe.
+Данный файл находится в C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.InstallLog.
+
+На этапе установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба уже существует
+
+Начинается этап отката процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe.
+Данный файл находится в C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.InstallLog.
+
+Этап отката выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\DATAService\x86\DATAService.exe.
+Данный файл находится в C:\DATAService\x86\DATAService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe.
+Данный файл находится в C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe.
+Данный файл находится в C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.

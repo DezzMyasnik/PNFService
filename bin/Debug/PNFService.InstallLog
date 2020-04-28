@@ -1,0 +1,85 @@
+﻿Выполняется установка сборки 'C:\Users\mini\source\repos\PNFService\PNFService\bin\Debug\PNFService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mini\source\repos\PNFService\PNFService\bin\Debug\PNFService.InstallLog
+   assemblypath = C:\Users\mini\source\repos\PNFService\PNFService\bin\Debug\PNFService.exe
+Устанавливается служба PNFService...
+Создается исходный EventLog PNFService в журнале Application...
+Выполняется откат для сборки 'C:\Users\mini\source\repos\PNFService\PNFService\bin\Debug\PNFService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mini\source\repos\PNFService\PNFService\bin\Debug\PNFService.InstallLog
+   assemblypath = C:\Users\mini\source\repos\PNFService\PNFService\bin\Debug\PNFService.exe
+Восстанавливается исходное состояние журнала событий для источника PNFService.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'C:\Users\mini\source\repos\PNFService\PNFService\bin\Debug\PNFService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mini\source\repos\PNFService\PNFService\bin\Debug\PNFService.InstallLog
+   assemblypath = C:\Users\mini\source\repos\PNFService\PNFService\bin\Debug\PNFService.exe
+Устанавливается служба PNFService...
+Создается исходный EventLog PNFService в журнале Application...
+Выполняется откат для сборки 'C:\Users\mini\source\repos\PNFService\PNFService\bin\Debug\PNFService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mini\source\repos\PNFService\PNFService\bin\Debug\PNFService.InstallLog
+   assemblypath = C:\Users\mini\source\repos\PNFService\PNFService\bin\Debug\PNFService.exe
+Восстанавливается исходное состояние журнала событий для источника PNFService.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'C:\Users\mini\source\repos\PNFService\PNFService\bin\Debug\PNFService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mini\source\repos\PNFService\PNFService\bin\Debug\PNFService.InstallLog
+   assemblypath = C:\Users\mini\source\repos\PNFService\PNFService\bin\Debug\PNFService.exe
+Устанавливается служба PNFService...
+Создается исходный EventLog PNFService в журнале Application...
+Выполняется откат для сборки 'C:\Users\mini\source\repos\PNFService\PNFService\bin\Debug\PNFService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mini\source\repos\PNFService\PNFService\bin\Debug\PNFService.InstallLog
+   assemblypath = C:\Users\mini\source\repos\PNFService\PNFService\bin\Debug\PNFService.exe
+Восстанавливается исходное состояние журнала событий для источника PNFService.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'C:\Users\mini\source\repos\PNFService\PNFService\bin\Debug\PNFService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mini\source\repos\PNFService\PNFService\bin\Debug\PNFService.InstallLog
+   assemblypath = C:\Users\mini\source\repos\PNFService\PNFService\bin\Debug\PNFService.exe
+Устанавливается служба PNFService...
+Создается исходный EventLog PNFService в журнале Application...
+Выполняется откат для сборки 'C:\Users\mini\source\repos\PNFService\PNFService\bin\Debug\PNFService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mini\source\repos\PNFService\PNFService\bin\Debug\PNFService.InstallLog
+   assemblypath = C:\Users\mini\source\repos\PNFService\PNFService\bin\Debug\PNFService.exe
+Восстанавливается исходное состояние журнала событий для источника PNFService.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'C:\Users\mini\source\repos\PNFService\PNFService\bin\Debug\PNFService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mini\source\repos\PNFService\PNFService\bin\Debug\PNFService.InstallLog
+   assemblypath = C:\Users\mini\source\repos\PNFService\PNFService\bin\Debug\PNFService.exe
+Устанавливается служба PNFService...
+Служба PNFService успешно установлена.
+Создается исходный EventLog PNFService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\mini\source\repos\PNFService\PNFService\bin\Debug\PNFService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mini\source\repos\PNFService\PNFService\bin\Debug\PNFService.InstallLog
+   assemblypath = C:\Users\mini\source\repos\PNFService\PNFService\bin\Debug\PNFService.exe
+Выполняется удаление сборки 'C:\Users\mini\source\repos\PNFService\PNFService\bin\Debug\PNFService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mini\source\repos\PNFService\PNFService\bin\Debug\PNFService.InstallLog
+   assemblypath = C:\Users\mini\source\repos\PNFService\PNFService\bin\Debug\PNFService.exe
+Выполняется удаление источника EventLog PNFService.
+Выполняется удаление службы PNFService из системы...
+Служба PNFService успешно удалена из системы.

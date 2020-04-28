@@ -1,0 +1,99 @@
+﻿Выполняется установка сборки 'C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.InstallLog
+   assemblypath = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.exe
+Устанавливается служба PNFService...
+Служба PNFService успешно установлена.
+Создается исходный EventLog PNFService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.InstallLog
+   assemblypath = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.exe
+Выполняется установка сборки 'c:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.InstallLog
+   assemblypath = c:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.exe
+Устанавливается служба STARService...
+Служба STARService успешно установлена.
+Создается исходный EventLog STARService в журнале Application...
+Выполняется фиксация сборки 'c:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.InstallLog
+   assemblypath = c:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.exe
+Выполняется установка сборки 'c:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.InstallLog
+   assemblypath = c:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.exe
+Устанавливается служба STARService...
+Служба STARService успешно установлена.
+Создается исходный EventLog STARService в журнале Application...
+Выполняется фиксация сборки 'c:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.InstallLog
+   assemblypath = c:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.exe
+Выполняется установка сборки 'C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.InstallLog
+   assemblypath = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.exe
+Устанавливается служба PNFService...
+Служба PNFService успешно установлена.
+Создается исходный EventLog PNFService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.InstallLog
+   assemblypath = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.exe
+Выполняется установка сборки 'C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.InstallLog
+   assemblypath = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.exe
+Устанавливается служба PNFService...
+Служба PNFService успешно установлена.
+Создается исходный EventLog PNFService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.InstallLog
+   assemblypath = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.exe
+Выполняется установка сборки 'C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.InstallLog
+   assemblypath = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.exe
+Устанавливается служба PNFService...
+Создается исходный EventLog PNFService в журнале Application...
+Выполняется откат для сборки 'C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.InstallLog
+   assemblypath = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.exe
+Восстанавливается исходное состояние журнала событий для источника PNFService.
+Выполняется удаление сборки 'C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.InstallLog
+   assemblypath = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.exe
+Выполняется удаление источника EventLog PNFService.
+Выполняется удаление службы PNFService из системы...
+Служба PNFService успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.InstallLog
+   assemblypath = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.exe
+Устанавливается служба PNFService...
+Служба PNFService успешно установлена.
+Создается исходный EventLog PNFService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.InstallLog
+   assemblypath = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\PNFService.exe

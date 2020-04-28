@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00 
+;Setup of PNFService
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\PNFService] 
+"URL"="http://localhost:8080/collectors" 
+"ID_Machine"="2812"

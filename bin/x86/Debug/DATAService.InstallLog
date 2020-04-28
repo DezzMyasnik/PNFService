@@ -1,0 +1,151 @@
+﻿Выполняется установка сборки 'C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.InstallLog
+   assemblypath = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe
+Устанавливается служба DATAService...
+Создается исходный EventLog DATAService в журнале Application...
+Выполняется откат для сборки 'C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.InstallLog
+   assemblypath = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe
+Восстанавливается исходное состояние журнала событий для источника DATAService.
+Выполняется установка сборки 'C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.InstallLog
+   assemblypath = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe
+Устанавливается служба DATAService...
+Служба DATAService успешно установлена.
+Создается исходный EventLog DATAService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.InstallLog
+   assemblypath = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe
+Выполняется удаление сборки 'C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.InstallLog
+   assemblypath = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe
+Выполняется удаление источника EventLog DATAService.
+Выполняется удаление службы DATAService из системы...
+Служба DATAService успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.InstallLog
+   assemblypath = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe
+Устанавливается служба DATAService...
+Служба DATAService успешно установлена.
+Создается исходный EventLog DATAService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.InstallLog
+   assemblypath = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe
+Выполняется удаление сборки 'C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.InstallLog
+   assemblypath = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe
+Выполняется удаление источника EventLog DATAService.
+Выполняется удаление службы DATAService из системы...
+Служба DATAService успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.InstallLog
+   assemblypath = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe
+Устанавливается служба DATAService...
+Служба DATAService успешно установлена.
+Создается исходный EventLog DATAService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.InstallLog
+   assemblypath = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe
+Выполняется удаление сборки 'C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.InstallLog
+   assemblypath = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe
+Выполняется удаление источника EventLog DATAService.
+Выполняется удаление службы DATAService из системы...
+Служба DATAService успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.InstallLog
+   assemblypath = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe
+Устанавливается служба DATAService...
+Служба DATAService успешно установлена.
+Создается исходный EventLog DATAService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.InstallLog
+   assemblypath = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe
+Выполняется удаление сборки 'C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.InstallLog
+   assemblypath = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe
+Выполняется удаление источника EventLog DATAService.
+Выполняется удаление службы DATAService из системы...
+Служба DATAService успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.InstallLog
+   assemblypath = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe
+Устанавливается служба DATAService...
+Служба DATAService успешно установлена.
+Создается исходный EventLog DATAService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.InstallLog
+   assemblypath = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe
+Выполняется удаление сборки 'C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.InstallLog
+   assemblypath = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe
+Выполняется удаление источника EventLog DATAService.
+Выполняется удаление службы DATAService из системы...
+Служба DATAService успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.InstallLog
+   assemblypath = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe
+Устанавливается служба DATAService...
+Служба DATAService успешно установлена.
+Создается исходный EventLog DATAService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.InstallLog
+   assemblypath = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe
+Выполняется удаление сборки 'C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.InstallLog
+   assemblypath = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe
+Выполняется удаление источника EventLog PNFService.
+При выполнении программы установки System.Diagnostics.EventLogInstaller во время установки возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется удаление сборки 'C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.InstallLog
+   assemblypath = C:\Users\mini\source\repos\PNFService\PNFService\bin\x86\Debug\DATAService.exe
+Выполняется удаление источника EventLog PNFService.
+Предупреждение. Источник PNFService не зарегистрирован на локальном компьютере.
+Выполняется удаление службы PNFService из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
